@@ -1,4 +1,4 @@
-# cve_search
+# CEST
 This is the private repository regarding CEST (CVEs and Exploits Search Tool).
 This python tool looks for CVEs (Common Vulnerabilities and Exposures) related to the CPE (Common Platform Enumeration) passed and picks up possible exploitdb.com's exploits referenced to.
 
